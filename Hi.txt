@@ -6,3 +6,6 @@
 
 dic[target - nums[i]]
 dic[target - nums[i]]dic[target - nums[i]]dic[target - nums[i]]
+
+
+dic[target - nums[i]]dic[target - nums[i]]dic[target - nums[i]]dic[target - nums[i]]dic[target - nums[i]]
