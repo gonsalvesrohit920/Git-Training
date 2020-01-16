@@ -1,0 +1,4 @@
+<div class="form-group">
+    <label class="sr-only" for="inputName">Hidden input label</label>
+    <input type="text" class="form-control" name="inputName" id="inputName" placeholder="">
+</div>
